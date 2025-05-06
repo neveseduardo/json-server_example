@@ -1,14 +1,15 @@
 {
     "enderecos": [
         {
-            "logradouro": "",
-            "numero": "",
-            "complemento": "",
-            "bairro": "",
-            "cep": "",
-            "cidade": "",
-            "estado": "",
-            "pais": ""
+            "id": 1,
+            "logradouro": "Rua das Acácias",
+            "numero": "123",
+            "complemento": "Apto 204, Bloco B",
+            "bairro": "Jardim Primavera",
+            "cep": "04567-890",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil"
         }
     ]
 }
