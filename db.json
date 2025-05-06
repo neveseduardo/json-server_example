@@ -1,0 +1,14 @@
+{
+    "enderecos": [
+        {
+            "logradouro": "",
+            "numero": "",
+            "complemento": "",
+            "bairro": "",
+            "cep": "",
+            "cidade": "",
+            "estado": "",
+            "pais": ""
+        }
+    ]
+}
